@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @11Warrior
+- 👋 Hi, I’m Aayush Thapa
 - 👀 I’m interested in full stack appliications.
 - 🌱 I’m currently learning full stack development using javascript frameworks
 - 💞️ I’m looking to collaborate on full stack development
